@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SupBoxGUI">
+    <output-path>$PROJECT_DIR$/out/artifacts/SupBoxGUI</output-path>
+    <root id="archive" name="SupBoxGUI.jar">
+      <element id="module-output" name="SupBox" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/MANIFESTS/MainGUI/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

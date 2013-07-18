@@ -1,0 +1,1152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SupBoxCLI" />
+      <artifact name="SupBoxGUI" />
+      <artifact name="SupBoxServer" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" name="Default" comment="" />
+    <ignored path="SupBox.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/src/com/heaven/SupBox/Launcher.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367856377066" ignored="false" />
+    <file path="/fragment.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369584652675" ignored="false" />
+    <file path="/FileDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367863981388" ignored="false" />
+    <file path="/daoFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367864010458" ignored="false" />
+    <file path="/socketFileDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367868794860" ignored="false" />
+    <file path="/UserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369579948374" ignored="false" />
+    <file path="/mysqlUserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367868837322" ignored="false" />
+    <file path="/User.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580707402" ignored="false" />
+    <file path="/mysqlConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367872344160" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/authentication/MysqlNativePasswordPlugin.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/authentication/MysqlClearPasswordPlugin.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/BlobFromLocator.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Blob.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/BestResponseTimeBalanceStrategy.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/AssertionFailedException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/BalanceStrategy.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/AbandonedConnectionCleanupThread.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/AuthenticationPlugin.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/authentication/Sha256PasswordPlugin.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/authentication/MysqlOldPasswordPlugin.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CachedResultSetMetaData.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ByteArrayRow.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CacheAdapterFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CacheAdapter.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/BufferRow.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Buffer.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932278" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CallableStatement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CharsetMapping.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionGroupManager.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionGroup.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionFeatureNotAvailableException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Connection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CompressedInputStream.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/CommunicationsException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Clob.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionImpl.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionProperties.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionLifecycleInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionPropertiesTransform.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ConnectionPropertiesImpl.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932279" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Constants.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932280" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/DatabaseMetaData.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932281" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/DocsConnectionPropsHelper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932281" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/DatabaseMetaDataUsingInfoSchema.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/EscapeProcessor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Driver.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLDataException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/DeadlockTimeoutRollbackMarker.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLNonTransientConnectionException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLInvalidAuthorizationSpecException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLIntegrityConstraintViolationException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLQueryInterruptedException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLNonTransientException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Field.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/FailoverConnectionProxy.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Extension.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ExportControlled.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ExceptionInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/EscapeTokenizer.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/EscapeProcessorResult.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransientConnectionException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTransactionRollbackException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLTimeoutException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLSyntaxErrorException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/MySQLDataException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/jdbc4/CommunicationsException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLTransientException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLTransientConnectionException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLTransactionRollbackException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLTimeoutException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLSyntaxErrorException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLStatementCancelledException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLNonTransientConnectionException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLInvalidAuthorizationSpecException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/exceptions/MySQLIntegrityConstraintViolationException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932282" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/IterateBlock.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932283" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/interceptors/SessionAssociationInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932283" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/interceptors/ServerStatusDiffInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932283" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/CallableStatementWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932283" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/interceptors/ResultSetScannerInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932283" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/integration/jboss/MysqlValidConnectionChecker.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/integration/jboss/ExtendedMysqlExceptionSorter.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/integration/c3p0/MysqlConnectionTester.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4PreparedStatementWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlXAConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4MysqlPooledConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4CallableStatementWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4ConnectionWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/ConnectionWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlConnectionPoolDataSource.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4SuspendableXAConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/JDBC4StatementWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlXid.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlXAException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlXAConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlPooledConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSourceFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/MysqlDataSource.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932284" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4Connection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/SuspendableXAConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4CommentClientInfoProvider.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/StatementWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4ClientInfoProviderSP.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4ClientInfoProvider.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4CallableStatement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jdbc2/optional/WrapperBase.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4DatabaseMetaData.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4ResultSet.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4PreparedStatementHelper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4PreparedStatement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4NClob.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4MysqlSQLXML.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4MySQLConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4LoadBalancedMySQLConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManagerMBean.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/jmx/LoadBalanceConnectionGroupManager.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4UpdatableResultSet.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4DatabaseMetaDataUsingInfoSchema.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/JDBC4ServerPreparedStatement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932285" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/LoadBalancedAutoCommitInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/LicenseConfiguration.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/LoadBalancingConnectionProxy.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/LoadBalanceExceptionChecker.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/LoadBalancedMySQLConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/StandardLogger.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/Slf4JLogger.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/NullLogger.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MysqlErrorNumbers.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/LogUtils.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MysqlDefs.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/LogFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MysqlDataTruncation.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/Log.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/log/Jdk14Logger.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MySQLConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MiniAdmin.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Messages.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932286" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NetworkResources.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932287" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NdbLoadBalanceExceptionChecker.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932287" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NamedPipeSocketFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932287" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MysqlSavepoint.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932287" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MysqlParameterMetadata.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932287" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/MysqlIO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932287" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NotImplemented.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NoSubInterceptorWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NonRegisteringReplicationDriver.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NonRegisteringDriver.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/PingTarget.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/PerVmServerConfigCacheFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/PerConnectionLRUFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ParameterBindings.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/PacketTooBigException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/OutputStreamWatcher.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/OperationNotSupportedException.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932288" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/NotUpdatable.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/PreparedStatement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/profiler/LoggingProfilerEventHandler.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/profiler/ProfilerEvent.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ReplicationDriver.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ProfilerEventHandlerFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ReplicationConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ReflectiveStatementInterceptorAdapter.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/RandomBalanceStrategy.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932289" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/profiler/ProfilerEventHandler.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/RowDataCursor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/RowData.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ResultSetRow.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ResultSetMetaData.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ResultSetInternalMethods.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ResultSetImpl.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932290" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/SocketFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/SingleByteCharsetConverter.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/ServerPreparedStatement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Security.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/SequentialBalanceStrategy.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/RowDataStatic.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/RowDataDynamic.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/SocketMetadata.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932295" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/SQLError.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932296" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StatementImpl.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932296" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Statement.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932296" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StandardSocketFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932296" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StandardLoadBalanceExceptionChecker.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932296" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StringUtils.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932297" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StatementInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932297" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StreamingNotifiable.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932297" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/StatementInterceptorV2.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932297" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/ErrorMappingsDocGenerator.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/BaseBugReport.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/VersionFSHierarchyMaker.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/TimezoneDump.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/UpdatableResultSet.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/ServerController.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/ResultSetUtil.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/TimeUtil.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/ReadAheadInputStream.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/PropertiesDocGenerator.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/util/LRUCache.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/WriterWatcher.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/BaseTestCase.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/WatchableWriter.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/org/gjt/mm/mysql/Driver.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/WatchableOutputStream.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/V1toV2StatementInterceptorAdapter.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/com/mysql/jdbc/Util.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/perf/LoadStorePerfTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/perf/BasePerfTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/perf/RetrievalPerfTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/CallableStatementRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/CachedRowsetTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/BlobRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932298" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/ConnectionRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932299" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/DataSourceRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932299" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/EscapeProcessorRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932299" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/MetaDataRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/PooledConnectionRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/NumbersRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/MicroPerformanceRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/ResultSetRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/StatementRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/SubqueriesRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/StringRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/StressRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/regression/SyntaxRegressionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/ConnectionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/CharsetTests.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/CallableStatementTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/BlobTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932300" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/MetadataTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/jdbc4/StatementsTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/EscapeProcessingTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/DateTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/DataSourceTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/NumbersTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/ReadOnlyCallableStatementTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/ResultSetTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/ServerControllerTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/SimpleTransformer.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/SplitDBdotNameTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/SSLTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/MiniAdminTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/StatementsTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/TestBug57662Logger.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/TestLifecycleInterceptor.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/UnreliableSocketFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/TransactionTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/TraversalTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/UpdatabilityTest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932301" ignored="false" />
+    <file path="$PROJECT_DIR$/src/mysql-connector-java-5.1.25/src/testsuite/simple/XATest.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367869932302" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/jdbc/jdbcConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870919036" ignored="false" />
+    <file path="/jdbcConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367871348060" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/jdbc/JdbcConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367871417904" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/jdbc/jdbcPlaceDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870937895" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/jdbc/jdbcTripDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870937895" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/gui/AddTripFrame.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870960202" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/jdbc/JdbcPlaceDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870945725" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/daoFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870953978" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/jdbc/JdbcTripDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870953229" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/dao/DaoFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870959459" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/gui/AddPlaceFrame.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870960202" ignored="false" />
+    <file path="$PROJECT_DIR$/../JavaParadise/src/com/Heavenstar/Main.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367870960202" ignored="false" />
+    <file path="/Main.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580931569" ignored="false" />
+    <file path="/MysqlUserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580013524" ignored="false" />
+    <file path="/GlobalMethods.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580782215" ignored="false" />
+    <file path="/TestBCrypt.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1367874025977" ignored="false" />
+    <file path="/DaoFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369579720028" ignored="false" />
+    <file path="/MainGUI.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369597228663" ignored="false" />
+    <file path="/Configuration.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580334767" ignored="false" />
+    <file path="/ConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369579566355" ignored="false" />
+    <file path="/PreferencesConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368979696012" ignored="false" />
+    <file path="$PROJECT_DIR$/../SecureSockets/src/Server.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368089193412" ignored="false" />
+    <file path="$PROJECT_DIR$/../SecureSockets/src/Main.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368091246746" ignored="false" />
+    <file path="$PROJECT_DIR$/../SecureSockets/src/Client.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368089213634" ignored="false" />
+    <file path="/Client.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368088687981" ignored="false" />
+    <file path="/Server.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368089141644" ignored="false" />
+    <file path="/SocketWrapper.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368093994827" ignored="false" />
+    <file path="/SocketConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369594816713" ignored="false" />
+    <file path="/ServerSocketConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369581220279" ignored="false" />
+    <file path="/ClientSocketConnection.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368892465446" ignored="false" />
+    <file path="/Catch Statement Body.txt.ft" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368197840044" ignored="false" />
+    <file path="/MysqlConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580191719" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/dao/UserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476471204" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/dao/mysql/MysqlConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476470994" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/dao/preferences/PreferencesConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476470994" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/dao/ConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476533472" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/dao/DaoFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476470994" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/dao/mysql/MysqlUserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476470994" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/entities/Configuration.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476482639" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/entities/User.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476482639" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/dao/ConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476527549" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/dao/ConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476587107" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/dao/DaoFactory.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476546791" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/dao/UserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476546791" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/dao/mysql/MysqlUserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476546791" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/dao/preferences/PreferencesConfigurationDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476546791" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/dao/mysql/MysqlConnexion.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476546791" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/entities/Configuration.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476587107" ignored="false" />
+    <file path="$PROJECT_DIR$/../SupBox_JDBC/src/com/heavenstar/supbox/entities/User.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368476587107" ignored="false" />
+    <file path="/RegExp Fragment (Main.java:542).regexp" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1368885544295" ignored="false" />
+    <file path="/MainWindow.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369578040351" ignored="false" />
+    <file path="/ListConfModel.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369577114615" ignored="false" />
+    <file path="/DragDropListener.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369576457446" ignored="false" />
+    <file path="/ComboBoxConfModel.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369576673671" ignored="false" />
+    <file path="/LoginSignupWindow.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369598208708" ignored="false" />
+    <file path="/a.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369143749883" ignored="false" />
+    <file path="/ClientSocketConnectionGui.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369576343821" ignored="false" />
+    <file path="/ClientSocketConnectionCli.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369576286611" ignored="false" />
+    <file path="/XmlUserDAO.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580002395" ignored="false" />
+    <file path="/ServerConfig.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369581027646" ignored="false" />
+    <file path="/XmlUserDatabaseFile.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369580142844" ignored="false" />
+    <file path="/RegExp Fragment (Main.java:2933).regexp" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369485782345" ignored="false" />
+    <file path="/RegExp Fragment (Main.java:3068).regexp" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369490248821" ignored="false" />
+    <file path="/GuiTransfertHandler.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369566940677" ignored="false" />
+    <file path="/MainCLI.java" changelist="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" time="1369594511228" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SupBox" />
+    <favorites_list name="SupBox_gui_refactor" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5638095">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="ServerSocketConnection.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/server/classes/ServerSocketConnection.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="180" column="7" selection-start="6695" selection-end="6695" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MainCLI.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/MainCLI.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="486" column="12" selection-start="17435" selection-end="17908" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="SocketConnection.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/commonClasses/SocketConnection.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="134" column="23" selection-start="4505" selection-end="4505" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/server/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="83" column="37" selection-start="3604" selection-end="3604" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ClientSocketConnectionGui.java" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/gui/ClientSocketConnectionGui.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="78" column="28" selection-start="2894" selection-end="2894" vertical-scroll-proportion="0.3783784">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="MainWindow.java" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/views/MainWindow.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="21" column="13" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="LoginSignupWindow.java" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/views/LoginSignupWindow.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="106" column="64" selection-start="4323" selection-end="4323" vertical-scroll-proportion="0.69557196">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/dao/UserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/dao/xml/XmlUserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/dao/mysql/MysqlUserDAO.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/dao/xml/XmlUserDatabaseFile.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/dao/mysql/MysqlConnexion.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/entities/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/entities/User.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/methods/GlobalMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/server/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/server/classes/ServerConfig.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/server/classes/ServerSocketConnection.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/client/MainCLI.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/commonClasses/SocketConnection.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/client/MainGUI.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/gui/ClientSocketConnectionGui.java" />
+        <option value="$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/views/LoginSignupWindow.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="229" />
+    <option name="y" value="289" />
+    <option name="width" value="2138" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="supbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="supbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commonClasses" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="supbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="supbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SupBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="supbox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="classes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.2948718" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="Database.TableEditor.Splitter" value="0.9" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="last.edited.regexp" value="" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.heavenstar.supbox.client" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.heavenstar.supbox.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/com/heavenstar/supbox/methods" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainGUI">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.heavenstar.supbox.server.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Server" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.heavenstar.supbox.server.Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SupBox" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainCLI" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.heavenstar.supbox.client.MainCLI" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SupBox" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainGUI" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.heavenstar.supbox.client.MainGUI" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="SupBox" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Server" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MainCLI" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainGUI" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd56d9c7-d78e-4148-8537-01e2ee3c1ea6" name="Default" comment="" />
+      <created>1367855661490</created>
+      <updated>1367855661490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="229" y="289" width="2138" height="928" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985258" sideWeight="0.6989664" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27136752" sideWeight="0.7161395" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17258383" sideWeight="0.20698577" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16831683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279703" sideWeight="0.9916813" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17209072" sideWeight="0.049200494" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19251925" sideWeight="0.72153467" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16682601" sideWeight="0.72153467" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27846536" sideWeight="0.9827916" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19103195" sideWeight="0.6989664" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296433" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.107673265" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39975247" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/dao/mysql/MysqlConnexion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="32" selection-start="1501" selection-end="1501" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/dao/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="78" selection-start="516" selection-end="516" vertical-scroll-proportion="0.45945945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/dao/xml/XmlUserDatabaseFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="42" selection-start="662" selection-end="662" vertical-scroll-proportion="0.6486486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/dao/xml/XmlUserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="40" selection-start="943" selection-end="943" vertical-scroll-proportion="0.5135135" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/methods/GlobalMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="52" selection-start="951" selection-end="951" vertical-scroll-proportion="0.7297297">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="21" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/entities/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="52" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/server/classes/ServerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="55" selection-start="2073" selection-end="2073" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="37" selection-start="3604" selection-end="3604" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/server/classes/ServerSocketConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="7" selection-start="6695" selection-end="6695" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/MainCLI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="486" column="12" selection-start="17435" selection-end="17908" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/commonClasses/SocketConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="134" column="23" selection-start="4505" selection-end="4505" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/MainGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="69" selection-start="854" selection-end="854" vertical-scroll-proportion="0.44280443">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/views/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="13" selection-start="671" selection-end="671" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/gui/ClientSocketConnectionGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="28" selection-start="2894" selection-end="2894" vertical-scroll-proportion="0.3783784">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/heavenstar/supbox/client/classes/views/LoginSignupWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="64" selection-start="4323" selection-end="4323" vertical-scroll-proportion="0.69557196">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="javaee-facet-resources" />
+              <type id="library" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>SupBoxCLI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2948718" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2948718" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2948718" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2948718" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SupBox</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2948718" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2948718" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
